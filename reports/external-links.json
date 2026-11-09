@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://docs.langchain.com/langsmith/evaluate-rag-tutorial",
+    "result": "200 https://docs.langchain.com/langsmith/evaluate-rag-tutorial",
+    "error": null
+  },
+  {
+    "url": "https://github.com/parth12060",
+    "result": "200 https://github.com/parth12060",
+    "error": null
+  },
+  {
+    "url": "https://github.com/parth12060/FinAdvisor",
+    "result": "200 https://github.com/parth12060/FinAdvisor",
+    "error": null
+  },
+  {
+    "url": "https://pymupdf.readthedocs.io/en/latest/recipes-text.html",
+    "result": "200 https://pymupdf.readthedocs.io/en/latest/recipes-text.html",
+    "error": null
+  },
+  {
+    "url": "https://realdoodle.com",
+    "result": "200 https://realdoodle.com/",
+    "error": null
+  },
+  {
+    "url": "https://www.instagram.com/parthlodat.ai/",
+    "result": "200 https://www.instagram.com/parthlodat.ai/",
+    "error": null
+  },
+  {
+    "url": "https://www.linkedin.com/in/parth-lodat-dev/",
+    "result": "999 https://www.linkedin.com/in/parth-lodat-dev/",
+    "error": null
+  },
+  {
+    "url": "https://www.mediallianz.com/",
+    "result": "200 https://www.mediallianz.com/",
+    "error": null
+  },
+  {
+    "url": "https://x.com/PARTHLODAT",
+    "result": "200 https://x.com/PARTHLODAT",
+    "error": null
+  }
+]

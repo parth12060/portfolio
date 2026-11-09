@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#100f0f"/>
+<text x="72" y="74" fill="#dfad8e" font-family="sans-serif" font-size="20" letter-spacing="3">PARTH LODAT · AI ENGINEERING</text>
+<text x="72" y="160" fill="#f1eee8" font-family="sans-serif" font-size="54" font-weight="700">Why your RAG chatbot</text>
+<text x="72" y="224" fill="#f1eee8" font-family="sans-serif" font-size="54" font-weight="700">gives wrong answers</text>
+<text x="72" y="278" fill="#aaa69e" font-family="sans-serif" font-size="25">Follow the evidence. Find the failing stage.</text>
+<g font-family="sans-serif">
+<rect x="72" y="340" width="316" height="168" rx="16" fill="#181716" stroke="#5d534a"/>
+<text x="96" y="382" font-size="17" fill="#dfad8e">01 / EXTRACTION</text>
+<text x="96" y="430" font-size="26" fill="#f1eee8">Is the text correct?</text>
+<text x="96" y="470" font-size="19" fill="#aaa69e">Source → Stored chunks</text>
+<rect x="442" y="340" width="316" height="168" rx="16" fill="#181716" stroke="#5d534a"/>
+<text x="466" y="382" font-size="17" fill="#dfad8e">02 / RETRIEVAL</text>
+<text x="466" y="430" font-size="26" fill="#f1eee8">Did we find it?</text>
+<text x="466" y="470" font-size="19" fill="#aaa69e">Query → Relevant evidence</text>
+<rect x="812" y="340" width="316" height="168" rx="16" fill="#181716" stroke="#5d534a"/>
+<text x="836" y="382" font-size="17" fill="#dfad8e">03 / GENERATION</text>
+<text x="836" y="430" font-size="26" fill="#f1eee8">Is it supported?</text>
+<text x="836" y="470" font-size="19" fill="#aaa69e">Context → Cited answer</text>
+</g>
+<path d="M398 424h32m-8-8 8 8-8 8M768 424h32m-8-8 8 8-8 8" fill="none" stroke="#dfad8e" stroke-width="2"/>
+<text x="72" y="574" fill="#aaa69e" font-family="sans-serif" font-size="20">A practical debugging guide · parthlodat.in</text>
+</svg>

@@ -1,0 +1,96 @@
+{
+  "desktop": [
+    {
+      "brokenLoadedImages": [],
+      "h1": 1,
+      "headings": "H1,H2,H3,H2,H3,H3,H2,H3,H3,H3,H3,H2,H3,H2,H2,H3,H2,H2",
+      "missingImageAlt": 0,
+      "overflow": false,
+      "path": "/",
+      "unnamedButtons": 0,
+      "width": 1280
+    },
+    {
+      "brokenLoadedImages": [],
+      "h1": 1,
+      "headings": "H1,H2,H2",
+      "missingImageAlt": 0,
+      "overflow": false,
+      "path": "/projects",
+      "unnamedButtons": 0,
+      "width": 1280
+    },
+    {
+      "brokenLoadedImages": [],
+      "h1": 1,
+      "headings": "H1,H2",
+      "missingImageAlt": 0,
+      "overflow": false,
+      "path": "/blog",
+      "unnamedButtons": 0,
+      "width": 1280
+    },
+    {
+      "brokenLoadedImages": [],
+      "h1": 1,
+      "headings": "H1,H2,H2,H2,H2,H2,H2,H2,H2,H2,H3,H3,H3,H3,H2",
+      "missingImageAlt": 0,
+      "overflow": false,
+      "path": "/blog/why-rag-chatbot-gives-wrong-answers",
+      "unnamedButtons": 0,
+      "width": 1280
+    }
+  ],
+  "mobile": [
+    {
+      "brokenImages": [],
+      "h1": "Hey, I'm Parth.",
+      "overflow": false,
+      "path": "/",
+      "width": 320
+    },
+    {
+      "brokenImages": [],
+      "h1": "Projects",
+      "overflow": false,
+      "path": "/projects",
+      "width": 320
+    },
+    {
+      "brokenImages": [],
+      "h1": "Blogs",
+      "overflow": false,
+      "path": "/blog",
+      "width": 320
+    },
+    {
+      "brokenImages": [],
+      "h1": "Why Your RAG Chatbot Gives Wrong Answers and How to Debug It",
+      "overflow": false,
+      "path": "/blog/why-rag-chatbot-gives-wrong-answers",
+      "width": 320
+    }
+  ],
+  "tablet": [
+    {
+      "overflow": false,
+      "path": "/",
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "path": "/projects",
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "path": "/blog",
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "path": "/blog/why-rag-chatbot-gives-wrong-answers",
+      "width": 768
+    }
+  ]
+}

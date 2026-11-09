@@ -1,0 +1,113 @@
+{
+  "pages": {
+    "/": {
+      "status": 200,
+      "title": "Parth Lodat - AI Engineer",
+      "h1": 1,
+      "description": "AI Engineer building production LLM systems end to end: RAG pipelines, real-time signal detection and multi-agent automation.",
+      "canonical": [
+        "https://parthlodat.in"
+      ],
+      "ogTitle": "Parth Lodat - AI Engineer",
+      "ogImage": "https://parthlodat.in/social-preview.png",
+      "robots": null,
+      "schemaTypes": [
+        "Person"
+      ],
+      "missingAlt": 0,
+      "duplicateIds": 0,
+      "htmlBytes": 216666
+    },
+    "/projects": {
+      "status": 200,
+      "title": "Projects | Parth Lodat",
+      "h1": 1,
+      "description": "Personal projects exploring AI, machine learning, and useful interfaces.",
+      "canonical": [
+        "https://parthlodat.in/projects"
+      ],
+      "ogTitle": "Projects | Parth Lodat",
+      "ogImage": "https://parthlodat.in/social-preview.png",
+      "robots": null,
+      "schemaTypes": [],
+      "missingAlt": 0,
+      "duplicateIds": 0,
+      "htmlBytes": 39560
+    },
+    "/blog": {
+      "status": 200,
+      "title": "Blogs | Parth Lodat",
+      "h1": 1,
+      "description": "Notes on building production LLM systems: retrieval, agents, and the parts that only show up once something is running.",
+      "canonical": [
+        "https://parthlodat.in/blog"
+      ],
+      "ogTitle": "Blogs | Parth Lodat",
+      "ogImage": "https://parthlodat.in/social-preview.png",
+      "robots": null,
+      "schemaTypes": [],
+      "missingAlt": 0,
+      "duplicateIds": 0,
+      "htmlBytes": 23093
+    },
+    "/blog/why-rag-chatbot-gives-wrong-answers": {
+      "status": 200,
+      "title": "RAG Chatbot Wrong Answers? How to Debug It | Parth Lodat",
+      "h1": 1,
+      "description": "Debug wrong RAG answers step by step: inspect PDF extraction, retrieved chunks, prompt context, and citations, then measure whether your fix actually works.",
+      "canonical": [
+        "https://parthlodat.in/blog/why-rag-chatbot-gives-wrong-answers"
+      ],
+      "ogTitle": "Why Your RAG Chatbot Gives Wrong Answers and How to Debug It",
+      "ogImage": "https://parthlodat.in/blog/rag-debugging.png",
+      "robots": null,
+      "schemaTypes": [
+        "BlogPosting"
+      ],
+      "missingAlt": 0,
+      "duplicateIds": 0,
+      "htmlBytes": 94425
+    }
+  },
+  "badLinks": [],
+  "badAssets": [],
+  "brokenAnchors": [],
+  "externalLinks": [
+    "https://docs.langchain.com/langsmith/evaluate-rag-tutorial",
+    "https://github.com/parth12060",
+    "https://github.com/parth12060/FinAdvisor",
+    "https://pymupdf.readthedocs.io/en/latest/recipes-text.html",
+    "https://realdoodle.com",
+    "https://www.instagram.com/parthlodat.ai/",
+    "https://www.linkedin.com/in/parth-lodat-dev/",
+    "https://www.mediallianz.com/",
+    "https://x.com/PARTHLODAT"
+  ],
+  "internalPathsChecked": 5,
+  "assetsChecked": 18,
+  "/robots.txt": {
+    "status": 200,
+    "contentType": "text/plain",
+    "noindex": false
+  },
+  "/sitemap.xml": {
+    "status": 200,
+    "contentType": "application/xml",
+    "noindex": false
+  },
+  "/missing-audit-page": {
+    "status": 404,
+    "contentType": "text/html; charset=utf-8",
+    "noindex": true
+  },
+  "/blog/missing-audit-post": {
+    "status": 404,
+    "contentType": "text/html; charset=utf-8",
+    "noindex": true
+  },
+  "/favicon.ico": {
+    "status": 200,
+    "contentType": "image/x-icon",
+    "noindex": false
+  }
+}
