@@ -7,6 +7,7 @@ import { Nav } from "@/components/nav";
 import { Footer } from "@/components/footer";
 import { Oneko } from "@/components/oneko";
 import { ChatWidget } from "@/components/chat-widget";
+import { GoogleAnalytics } from "@/components/google-analytics";
 
 const hanken = Hanken_Grotesk({
   subsets: ["latin"],
@@ -96,6 +97,7 @@ export default function RootLayout({
         </main>
         <Oneko />
         <ChatWidget />
+        <GoogleAnalytics />
       </body>
     </html>
   );

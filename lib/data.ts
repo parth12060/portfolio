@@ -9,6 +9,8 @@ export const site = {
   location: "Mumbai, India",
   resume: "/Parth_Lodat_Resume.pdf",
   initials: "PL",
+  /** Google Analytics 4 Measurement ID (public, safe to commit). Empty = analytics off. */
+  gaId: "G-ZS8E3S2NGZ",
 };
 
 export const socials = {
