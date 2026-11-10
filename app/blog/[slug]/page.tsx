@@ -16,7 +16,6 @@ import {
 import { ArticleToc } from "@/components/article-toc";
 import { ShareButton } from "@/components/share-button";
 import { BlogList } from "@/components/blog-list";
-import { Comments } from "@/components/comments";
 import { site } from "@/lib/data";
 import { ogDefaults, twitterDefaults } from "@/lib/seo";
 
@@ -207,13 +206,6 @@ export default async function BlogPostPage({ params }: Params) {
       </article>
 
       <ArticleToc headings={headings} articleId="article" />
-
-      <section aria-labelledby="comments-heading" className="mt-16">
-        <h2 id="comments-heading" className="text-2xl font-semibold">Comments</h2>
-        <div className="mt-6">
-          <Comments repo={site.commentsRepo} slug={post.slug} />
-        </div>
-      </section>
 
       <section aria-labelledby="related-heading" className="border-border mt-16 border-t pt-10">
         {related.length > 0 && (

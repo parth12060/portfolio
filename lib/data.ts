@@ -9,8 +9,6 @@ export const site = {
   location: "Mumbai, India",
   resume: "/Parth_Lodat_Resume.pdf",
   initials: "PL",
-  /** Public GitHub repo whose issues hold blog comments (utterances). */
-  commentsRepo: "parth12060/portfolio",
 };
 
 export const socials = {
